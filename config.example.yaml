@@ -1,0 +1,16 @@
+# getNoPSS 配置文件
+# 请根据你的实际情况修改以下配置
+
+openai:
+  # OpenAI API 密钥 (必需)
+  api_key: "your-openai-api-key"
+  
+  # OpenAI API Base URL (可选)
+  # 注意: 不要在末尾添加斜杠
+  # 官方OpenAI: "https://api.openai.com/v1"
+
+  base_url: ""
+  
+  # 使用的模型 (可选，默认: gpt-4o)
+  # 可选: gpt-4o, gpt-4, gpt-3.5-turbo 等
+  model: "gpt-4o"
