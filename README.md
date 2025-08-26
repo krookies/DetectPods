@@ -154,6 +154,7 @@ openai:
   "analyses": [...]
 }
 ```
+<img width="960" height="721" alt="image" src="https://github.com/user-attachments/assets/6f939f12-2381-4b85-86ba-0d860acd5672" />
 
 ### HTML 报告
 - 📈 统计概览
